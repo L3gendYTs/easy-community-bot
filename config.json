@@ -1,5 +1,7 @@
 {
-    "token": "OTA2MjYxMzc3OTY0OTc4MjY3.GkW2Iv.yYKnc1vyjdWFVdhEbjJATZR1moVK4HCeBmjB1o",
+    "token": "insert the bot token",
     "prefix": "!", 
-    "staffRole": "964859436730572821"
+    "staffRole": "insert the id",
+    "moderationAlertChannel": "insert the id",
+    "guild": "insert the id"
 }

@@ -1,3 +1,7 @@
+/** Simple Community BOT | Created by L3gend | Version 1.0.0
+ * 
+ * Read the README file
+*/
 const Discord = require('discord.js');
 const fs = require('fs');
 const config = require('./config.json')
