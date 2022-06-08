@@ -22,7 +22,10 @@ config.json
     
 ## Authors
 
-Name: L3gend
-Tag discord: L3gend#0793
-Discord server: https://discord.gg/NsfsBxVNrv
-Telegram: @sL3gend
+ Name: L3gend
+
+ Tag discord: L3gend#0793
+
+ Discord server: https://discord.gg/NsfsBxVNrv
+
+ Telegram: @sL3gend
